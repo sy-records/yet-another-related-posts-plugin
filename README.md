@@ -21,9 +21,13 @@ Author URI: [http://www.yarpp.com/](http://www.yarpp.com/)
 
 jeffparker
 
-## version
+## Version
 
 v4.4
+
+## Download
+
+[click here.](https://github.com/sy-records/yet-another-related-posts-plugin/releases)  
 
 ## Tags
 
