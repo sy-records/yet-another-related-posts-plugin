@@ -3,9 +3,9 @@
 
 ## Description
 
-This plugin was closed on October 23, 2018 and is no longer available for download.
+The original plugin was closed on October 23, 2018 and is no longer available for download.
 
-Unofficial image repository, just for easy download.
+This is not the original image repository, just to facilitate downloading.
 
 I use this plugin in the WordPress c7v5 theme.
 
@@ -27,7 +27,7 @@ v4.4
 
 ## Tags
 
-`feeds, pages, posts, related, rss, yarpp, ads, multisite, multilingual, thumbnails, related posts, related content`
+feeds, pages, posts, related, rss, yarpp, ads, multisite, multilingual, thumbnails, related posts, related content
 
 ## License
 
