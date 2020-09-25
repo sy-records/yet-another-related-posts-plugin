@@ -1,9 +1,13 @@
 # yet-another-related-posts-plugin
-:partly_sunny: The latest version of the WordPress YARPP plugin when the author stopped maintenance. 
+:partly_sunny: Version 4.4 of the WordPress YARPP plugin.
 
 ## Description
 
-The original plugin was closed on October 23, 2018 and is no longer available for download.
+<del>The original plugin was closed on October 23, 2018 and is no longer available for download.</del>
+
+The author has resumed updates, so archive this repository.
+
+see https://wordpress.org/plugins/yet-another-related-posts-plugin/
 
 This is not the original image repository, just to facilitate downloading.
 
